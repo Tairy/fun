@@ -7,5 +7,5 @@
  */
 
 return [
-    '/home'    =>  'HomeController@index'
+    '/home'    =>  'HomeController@index',
 ];
